@@ -17,3 +17,4 @@ Este é um projeto de um site de notícias responsivo desenvolvido com HTML, CSS
 - **JavaScript:** Interação dinâmica, carregamento de notícias em tempo real.
 
 ## Como Usar
+1. Clone o repositório em sua máquina local:
